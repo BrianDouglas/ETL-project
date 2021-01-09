@@ -1,0 +1,47 @@
+﻿Department,Cheese Type,Variety,Type of milk,Origin,Label (AOP),Family,Cooked,Location,Serving
+Cantal,Cantal,jeune (young),1,farmhouse,AOP,hard cheese,N,Auvergne,sliced
+Cantal,Cantal,entre deux (matured),1,farmhouse,AOP,hard cheese,Y,Auvergne,sliced
+N/A,Salers,N/A,1,farmhouse,AOP,hard cheese,N,Auvergne,sliced
+N/A,Laguiole,N/A,1,farmhouse,AOP,hard cheese,N,Auvergne,sliced
+N/A,Comté,N/A,1,manufactured,AOP,hard cheese,Y,Franché Comte,sliced
+N/A,Comté,fruité,1,manufactured,AOP,hard cheese,Y,Franché Comte,sliced
+N/A,Comté,salé,1,manufactured,AOP,hard cheese,Y,Franché Comte,sliced
+N/A,Comté,vieux,1,manufactured,AOP,hard cheese,Y,Franché Comte,sliced
+N/A,Gruyére,N/A,1,manufactured,IGP,hard cheese,Y,Franché Comte,sliced
+N/A,Beaufort,N/A,1,manufactured,AOP,hard cheese,Y,Franché Comte,sliced
+N/A,Abondance,N/A,1,manufactured,AOP,hard cheese,Y,Franché Comte,sliced
+N/A,Emmental,N/A,1,manufactured,IGP,hard cheese,Y,N/A,sliced
+N/A,Mimolette,N/A,1,manufactured,AOP,hard cheese,Y,Lille,sliced
+N/A,Tomme des Pyrénéees,N/A,1,manufactured,IGP,hard cheese,M,Pyrenees,sliced
+N/A,Reblochon,N/A,1,manufactured,AOP,hard cheese,Y,Alps,sliced
+N/A,Brie,Brie de Meaux,1,manufactured,AOC,soft,Y,Meaux,spread
+N/A,Brie,Brie de Melun,1,manufactured,AOC,soft,Y,Melun,spread
+N/A,Camembert,N/A,1,manufactured,AOC,soft,Y,Normandy,spread
+N/A,Epoisses,N/A,1,manufactured,AOC,semi-soft,Y,Burgundy,spread
+N/A,Gaperon,N/A,1,manufactured,AOC,semi-soft,Y,Auvergne,spread
+N/A,Mont d'Or,N/A,1,manufactured,AOC,soft,Y,Franché Comté,spread
+N/A,Edel de Cleron,N/A,1,manufactured,AOC,soft,Y,Franché Comté,spread
+N/A,Munster,au cumin,1,manufactured,N/A,semi-soft,M,Vosges,sliced
+N/A,Munster,normal,1,manufactured,N/A,semi-soft,M,Vosges,sliced
+N/A,Pont l'Evéque,N/A,1,farmhouse,N/A,semi-soft,N/A,Normandy,spread
+N/A,Saint Nectaire,farm,1,farmhouse,AOC,semi-soft,Y,Auvergne,sliced
+N/A,Saint Nectaire,dairy,1,manufactured,AOC,soft,N,Auvergne,spread
+N/A,Savaron,N/A,1,manufactured,N/A,semi-soft,Y,Auvergne,sliced
+N/A,Bleu d'Auvergne,Bleu de Laqueille,1,manufactured,AOC,blue,N,N/A,crumbled
+N/A,Bleu d'Auvergne,Saint Agur,1,manufactured,AOC,blue,N,Haute Loire,crumbled
+N/A,Bleu de Bresse,N/A,1,manufactured,N/A,soft,N,N/A,spread
+N/A,Bleu de Causses,N/A,1,manufactured,AOC,blue,N,Roquefort,crumbled
+N/A,Bleu de Gex,N/A,1,manufactured,N/A,blue,N,Swiss Border,crumbled
+N/A,Fourme d'Ambert,N/A,1,manufactured,N/A,blue,N,Auvergne,crumbled
+Aveyron,Roquefort,N/A,2,manufactured,AOC,blue,N,Southern France,crumbled
+N/A,Crottin de Chavignol,N/A,3,manufactured,N/A,N/A,M,N/A,spread
+N/A,Valencay,N/A,3,manufactured,N/A,N/A,M,N/A,spread
+N/A,Ineguy,N/A,2,manufactured,N/A,pressed (hard),N,Bascque,sliced
+N/A,Saint Agur,N/A,1,manufactured,N/A,blue,N,Auvergne,crumbled
+N/A,Brillat-Savarin,N/A,1,manufactured,N/A,soft,M,N/A,spread
+N/A,Roulade,N/A,1,manufactured,N/A,N/A,N/A,N/A,N/A
+N/A,Saint Albray,N/A,1,manufactured,N/A,N/A,N/A,N/A,N/A
+N/A,Port Salut,N/A,1,manufactured,N/A,N/A,N/A,N/A,N/A
+N/A,Boursin,N/A,1,manufactured,N/A,soft,N,N/A,spread
+N/A,Raclette,N/A,1,manufactured,N/A,hard,N,N/A,sliced
+N/A,Cancoillotte,N/A,1,manufactured,N/A,soft,N,N/A,spread
